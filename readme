@@ -1,0 +1,23 @@
+# Classificação de Nota
+
+Este projeto é uma aplicação em Python que classifica a nota de um aluno de acordo com uma escala padrão. O usuário insere uma nota, e o programa classifica essa nota em uma das seguintes categorias: A, B, C, D ou F.
+
+## Escala de Notas
+
+- **A**: 90 a 100
+- **B**: 80 a 89
+- **C**: 70 a 79
+- **D**: 60 a 69
+- **F**: Abaixo de 60
+
+## Funcionalidades
+
+- Solicita a nota do aluno como entrada.
+- Classifica a nota com base na escala pré-definida.
+- Exibe a classificação da nota para o usuário.
+
+## Como usar
+
+1. Clone o repositório para sua máquina local:
+  
+   git clone https://github.com/seuusuario/classificacao-de-nota.git
