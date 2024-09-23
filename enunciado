@@ -1,0 +1,14 @@
+Classificação de Nota
+Neste projeto, o objetivo é desenvolver uma aplicação em Python que classifique a nota de um aluno de acordo com a seguinte escala:
+
+A: 90 a 100
+B: 80 a 89
+C: 70 a 79
+D: 60 a 69
+F: Abaixo de 60
+O usuário fornecerá uma nota, e o programa irá classificar a nota na respectiva categoria. O projeto utiliza estruturas condicionais simples para realizar a classificação e pode ser facilmente expandido para incluir outras funcionalidades relacionadas à avaliação de notas.
+
+Funcionalidades:
+Entrada da nota do aluno.
+Classificação da nota em A, B, C, D ou F.
+Exibição de mensagens personalizadas com base na classificação da nota
